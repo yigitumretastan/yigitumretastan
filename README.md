@@ -10,5 +10,7 @@ Ben yazılım geliştiriciyim. İşte GitHub istatistiklerim ve projelerim!
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yigitumretastan&layout=compact&theme=dark)
 
+![Demo Gif](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+
 ---
 
