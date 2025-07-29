@@ -1,16 +1,33 @@
-## Hi there 👋
+# Merhaba, ben Yiğit Ümret Astan 👋
 
-<!--
-**yigitumretastan/yigitumretastan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ben yazılım geliştiriciyim. İşte GitHub istatistiklerim ve projelerim!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub İstatistiklerim
+
+![yigitumretastan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yigitumretastan&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yigitumretastan&layout=compact&theme=dark)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yigitumretastan&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## Öne Çıkan Projelerim
+
+- [Instagram-clone](https://github.com/yigitumretastan/Instagram-clone) - Vue.js ile Instagram klonu
+- Buraya başka projelerini ekleyebilirsin
+
+---
+
+## Bana Ulaş
+
+- Twitter: [@kullanıcıadı](https://twitter.com/kullanıcıadı) (varsa)
+- LinkedIn: [Profilim](https://linkedin.com/in/kullanıcıadı) (varsa)
+- E-posta: mail@ornek.com (varsa)
+
+---
+
+**Teşekkürler!**
+
