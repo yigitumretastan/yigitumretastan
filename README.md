@@ -14,3 +14,5 @@ Ben yazılım geliştiriciyim. İşte GitHub istatistiklerim ve kullandığım t
 | ![yigitumretastan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yigitumretastan&show_icons=true&theme=dark) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yigitumretastan&layout=compact&theme=dark) |
 
 ---
+
+![snake gif](https://github.com/yigitumretastan/yigitumretastan/blob/output/github-contribution-grid-snake.gif)
