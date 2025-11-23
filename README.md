@@ -15,4 +15,4 @@ Ben yazılım geliştiriciyim. İşte GitHub istatistiklerim ve kullandığım t
 
 ---
 
-![snake gif](https://github.com/yigitumretastan/yigitumretastan/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://raw.githubusercontent.com/yigitumretastan/yigitumretastan/output/github-contribution-grid-snake.gif)
